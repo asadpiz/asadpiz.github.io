@@ -15,4 +15,4 @@ permalink: /
 *   This is an unordered list following a header.
 *   
 
-[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/asadxsyed/)
+[![LinkedIn](images/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/asadxsyed/)
