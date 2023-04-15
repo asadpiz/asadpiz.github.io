@@ -18,4 +18,4 @@ permalink: /
 # Social
 
 [![LinkedIn](images/LI-Logo.svg.original.svg)](https://www.linkedin.com/in/asadxsyed/)
-[![GitHub](images/GitHub_Logo.png)](https://www.linkedin.com/in/asadxsyed/)
+[![GitHub](images/GitHub_Logo.png)]([https://www.linkedin.com/in/asadxsyed/](https://github.com/asadpiz))
