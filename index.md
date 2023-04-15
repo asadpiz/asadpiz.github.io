@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
+title: "Asad Syed"
+permalink: /
 ---
+
 
 # Blog Posts
 *   [How to deploy CDK v2 to an account that requires boundary policies](https://aws.amazon.com/blogs/mt/how-to-deploy-cdk-v2-to-an-account-that-requires-boundary-policies/)
