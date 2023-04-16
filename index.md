@@ -6,10 +6,11 @@ permalink: /
 
 
 # Blog Posts
-| Blog Site  | Link| Date |
+
+|Blog Site|Link|Date|
 | ------------- | ------------- | ------------- |
 | **AWS Blogs** | [How to deploy CDK v2 to an account that requires boundary policies](https://aws.amazon.com/blogs/mt/how-to-deploy-cdk-v2-to-an-account-that-requires-boundary-policies/)  | October, 2022|
-| **CentOs Blogs**  | [Cloud In A Box: CentOS OpenStack Remix](https://blog.centos.org/2015/07/cloud-in-a-box-centos-openstack-remix/)   | July, 2015|
+| **CentOs Blogs** |[Cloud In A Box: CentOS OpenStack Remix](https://blog.centos.org/2015/07/cloud-in-a-box-centos-openstack-remix/)|July, 2015|
 
 # Repositories
 
@@ -21,4 +22,5 @@ permalink: /
 # Social
 
 [![LinkedIn](images/linkedinlogo.png)](https://www.linkedin.com/in/asadxsyed/)
-[![GitHub](images/GitHub_Logo.png)](https://github.com/asadpiz))
+
+[![GitHub](images/GitHub_Logo.png)](https://github.com/asadpiz)
